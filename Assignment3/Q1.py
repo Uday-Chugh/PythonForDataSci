@@ -6,6 +6,7 @@ import string
 directory = "text_files"
 os.makedirs(directory, exist_ok=True)
 
+
 # Number of files to create
 num_files = 500
 
