@@ -6,7 +6,6 @@ import csv
 
 # Directory where you want to create the text files
 output_directory = "python 4"
-
 # Number of text files to create
 num_files = [100, 200, 300, 400, 500]
 
